@@ -1,6 +1,8 @@
-# React Template
+# React-Electron Template
 
-this react template contains:
+npm i + npm run build once cloning 
+
+this react-electron template contains:
 
 
 Tailwind - for styling
